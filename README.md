@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicolas</h1>
+<h1 align="center">Hi 🖖, I'm Nicolas</h1>
 <h3 align="center">A FullStack developer from Argentina</h3>
 
 - 🔭 I’m working on [CartaSur]([https://github.com/leanTate/portfolio.git](https://www.linkedin.com/company/cartasur/mycompany/))
